@@ -1,4 +1,4 @@
-# Sketchbook
+# FOLIO
 
 > Deployed and maintained by **[Saurav Thakur](https://sauravthakurx.vercel.app/)** — [LinkedIn](https://linkedin.com/in/sauravthakurq) · [GitHub](https://github.com/sauravthakurq) · [YouTube](https://www.youtube.com/@SauravThakurx) · [X](https://x.com/SauravThakurx)
 >
@@ -60,8 +60,8 @@ Deployed on Vercel from `main` and served at [sketchbook-gold-delta.vercel.app](
 
 ## More open source
 
-- **[Skills](https://github.com/sauravthakurq/ai-agent-skills)** — agent skills for designers and builders using Codex, Claude, Cursor and other AI coding agents. Browse them at [ui-skills.com](https://ui-skills.com).
-- **[The Complete Shelf](https://github.com/sauravthakurq/threejs-book-shelf)** — seven interactive clothbound hardcovers in a single Three.js file. [Live](https://complete-shelf-three.vercel.app)
+- **[PRIMER](https://github.com/sauravthakurq/primer)** — agent skills for designers and builders using Codex, Claude, Cursor and other AI coding agents. Browse them at [PRIMER](https://skills-tau-ten.vercel.app).
+- **[VELLUM](https://github.com/sauravthakurq/vellum)** — seven interactive clothbound hardcovers in a single Three.js file. [Live](https://complete-shelf-three.vercel.app)
 
 ## Connect
 
