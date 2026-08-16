@@ -1,8 +1,14 @@
 # Sketchbook
 
+> Deployed and maintained by **[Saurav Thakur](https://sauravthakurx.vercel.app/)** — [LinkedIn](https://linkedin.com/in/sauravthakurq) · [GitHub](https://github.com/sauravthakurq) · [YouTube](https://www.youtube.com/@SauravThakurx) · [X](https://x.com/SauravThakurx)
+>
+> **Live site:** https://sketchbook-gold-delta.vercel.app
+>
+> Original project by [Meng To](https://github.com/MengTo). This is a fork; all original authorship and copyright remain with the original author.
+
 A page-flipping sketchbook of Singapore, built as one static HTML file. Drag a page and the leaf bends the way paper bends, then drag the brass magnifier across the spread to read the ink up close.
 
-[**View the live site**](https://mengto.com)
+[**View the live site**](https://sketchbook-gold-delta.vercel.app)
 
 ![The sketchbook open on the Marina Bay skyline, with the magnifier resting on the ink](assets/sketchbook-preview.jpg)
 
@@ -50,18 +56,20 @@ The magnifier is hidden on touch devices, where there is no cursor to drag it wi
 
 ## Deployment
 
-GitHub Pages builds from `main` through [the Actions workflow](.github/workflows/pages.yml) and serves at [mengto.com](https://mengto.com).
+Deployed on Vercel from `main` and served at [sketchbook-gold-delta.vercel.app](https://sketchbook-gold-delta.vercel.app).
 
 ## More open source
 
-- **[Skills](https://github.com/MengTo/Skills)** — agent skills for designers and builders using Codex, Claude, Cursor and other AI coding agents. Browse them at [ui-skills.com](https://ui-skills.com).
-- **[The Complete Shelf](https://github.com/MengTo/complete-shelf)** — seven interactive clothbound hardcovers in a single Three.js file. [Live](https://mengto.github.io/complete-shelf/)
+- **[Skills](https://github.com/sauravthakurq/ai-agent-skills)** — agent skills for designers and builders using Codex, Claude, Cursor and other AI coding agents. Browse them at [ui-skills.com](https://ui-skills.com).
+- **[The Complete Shelf](https://github.com/sauravthakurq/threejs-book-shelf)** — seven interactive clothbound hardcovers in a single Three.js file. [Live](https://complete-shelf-three.vercel.app)
 
-## What I build
+## Connect
 
-- **[Aura](https://aura.build)** — an AI website builder that creates landing pages in seconds and exports to HTML and Figma.
-- **[Design+Code](https://designcode.io)** — learn to design and code React and Swift apps.
-- **[DreamCut](https://dreamcut.ai)** — an AI video editor and screen recorder.
+- 💼 **LinkedIn** — https://linkedin.com/in/sauravthakurq
+- 🌍 **Portfolio** — https://sauravthakurx.vercel.app/
+- 💻 **GitHub** — https://github.com/sauravthakurq
+- ▶️ **YouTube** — https://www.youtube.com/@SauravThakurx
+- 𝕏 **X (Twitter)** — https://x.com/SauravThakurx
 
 ## Credits
 
